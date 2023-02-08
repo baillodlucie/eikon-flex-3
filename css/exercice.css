@@ -17,7 +17,18 @@
 }
 
 /* 3. exercice-order-2 */
+.exercice-order-2 .container {
+  display:flex;
+  flex-direction: column;
+}
 
+.exercice-order-2 .element-yellow {
+  order:-1;
+}
+
+.exercice-order-2 .element {
+  width: 100%;
+}
 
 /* 4. exercice-order-3 */
 
