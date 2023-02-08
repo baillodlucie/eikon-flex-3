@@ -56,8 +56,31 @@ align-self:flex-end;
 }
 
 /* 6. exercice-align-self-2*/
+.exercice-align-self-2 .container {
+  display:flex;
+  flex-direction: column;
+}
 
-
+.exercice-align-self-2 .element-yellow {
+  align-self:flex-end;
+  }
+  
+.exercice-align-self-2 .element-red {
+align-self:center;
+}
+    
+.exercice-align-self-2 .element-green {
+align-self:center;
+}
+      
+.exercice-align-self-2 .element-gray {
+align-self:center;
+}
+    
+.exercice-align-self-2 .element-pink {
+align-self:center;
+}
+            
 /* 7. exercice-all-in-1 */
 
 
