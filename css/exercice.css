@@ -82,8 +82,24 @@ align-self:center;
 }
             
 /* 7. exercice-all-in-1 */
+.exercice-all-in-1 .container {
+  display:flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.exercice-all-in-1 .element-red {
+  align-self:center;
+  }
+
+.exercice-all-in-1 .element-green {
+align-self:center;
+}
 
 
+.exercice-all-in-1 .element-blue {
+  order: -1;
+}
 /* 8. exercice-all-in-2 */
 
 
